@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Weather app kotlin</string>
+    <string name="content_image_item_weather">content_image_item_weather</string>
+</resources>
